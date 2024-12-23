@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+h1 {
+  font-family: "Charm", cursive;
+  font-weight: 700;
+  font-style: normal;
+}
+.form-control {
+  font-family: "Charm", cursive;
+  font-weight: 700;
+  font-style: normal;
+}
+ul li {
+  font-family: "Charm", cursive;
+  font-weight: 700;
+  font-style: normal;
+}
